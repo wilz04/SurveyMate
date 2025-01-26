@@ -1,0 +1,43 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	scrollBar-face-color: #FFF8F0;
+	scrollBar-highLight-color: #FFFFFF;
+	scrollBar-shadow-color: #F1EAE3;
+	scrollBar-3dLight-color: #FFFCF8;
+	scrollBar-arrow-color: #FDDBB9;
+	scrollBar-track-color: #FFFCF8;
+	scrollBar-darkShadow-color: #E7E1D9;
+}
+a:link {
+	font-weight: normal;
+	font-size: 12px;
+	color: #82A6A6;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: none;
+	color: #82A6A6;
+}
+a:hover {
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: none;
+	color: #82A6A6;
+}
+a:active {
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: none;
+	color: #82A6A6;
+}
+.menu {
+	background-image: url(Images/MenuGround.jpg);
+	vertical-align: top;
+	border: 2px solid #CCDDDD;
+}
+iFrame {
+	border: 2px solid #FDDBB8;
+}
